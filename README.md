@@ -2,6 +2,8 @@
 
 This is a resourcepack created for Minecraft version 1.12.2, bringing textures in the style of previous GregTech versions to GTCE.
 
+It features optional connected textures support for Blast Furnace Coils, Fusion Reactors, and Reinforced Glasses. More is to come in the future.
+
 Currently Supported Mods:
  - [GTCE](https://www.curseforge.com/minecraft/mc-mods/gregtechce)
  - [Gregicality](https://www.curseforge.com/minecraft/mc-mods/gregicality)
