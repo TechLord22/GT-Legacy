@@ -1,0 +1,12 @@
+Fully Blue JEI:
+1) Unzip this resourcepack and navigate to the following directory: "resourcepacks\GTLegacy\assets\jei\textures\gui"
+2) Move the contents of the "blue_jei" folder found in the directory to the "gui" folder.
+3) To undo this, delete or move the files elsewhere.
+
+Disabling Connected Textures:
+1) To disable connected textures, move or delete the ".mcmeta" files corresponding to the texture you wish to alter.
+2) To undo this, add the correct files back to the proper directory.
+
+Blast Furnace Coils:
+1) To make Gregicality's Advanced Heating Coils show the top and bottom texture, delete or rename "ga_heating_coil.json", located in "resourcepacks\GTLegacy\assets\gtadditions\blockstates"
+2) To undo this, add the correct file back to the proper directory.
